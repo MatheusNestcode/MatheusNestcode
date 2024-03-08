@@ -3,9 +3,6 @@
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=MatheusNestcode&show_icons=true&theme=dark"/>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNestcode&layout=compact&theme=dark&langs_count=8&card_width=220" />
-</a>
 </div>
 
 ##
